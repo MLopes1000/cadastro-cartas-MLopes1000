@@ -58,6 +58,7 @@ int main() {
 
      printf("Número de pontos turísticos: ");
     scanf("%f", &numeroDePontosTuristicos);
+    
 
 return 0;
 } 
