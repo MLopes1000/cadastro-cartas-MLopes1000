@@ -2,7 +2,9 @@
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das cartas
-// Objetivo: No nível Aventureiro, você expandirá o sistema para incluir propriedades calculadas, permitindo uma análise mais detalhada das cartas.
+// Objetivo: No nível Mestre, - O sistema permitirá ao usuário comparar duas cartas com base nas propriedades inseridas e calculadas.
+// Cada carta terá um "Super Poder", que é a soma de todas as propriedades.
+
 int main() {
   
     char estado;
